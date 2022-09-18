@@ -46,7 +46,7 @@ sh cytoscape.sh
 python3 CTpathway.py example/example_diff.txt symbol Both
 ```
 
-Once the program has run successfully, a series of result files will appear in the "output" folder. The result files are as follows:  
+Once the program has run successfully, a series of result files will appear in the "output" folder. The result files are as follows:   
 	pathway_result.txt --Pathway enrichment result includes source, pathway risk score (PS), p_value, FDR, node_number and website for all candidate pathways.  
 	significant_pathway_result.txt --Pathway enrichment result includes source, pathway risk score (PS), p_value, FDR, node_number and website for significant pathways.  
 	risk_score_result.txt --Gene risk score (RS) for all genes.  
@@ -78,7 +78,7 @@ data_type
 --permutation_number
 	Optional. Permutation number is used to identify significant pathways. [default= 1000]. Notice: the larger permutation number is, the longer time consumes.
 --r_value
-	Optional. Restart coefficient corresponds to multi-RWR (multiple random walk with restart) algorithm. Available options are "0.1", "0.2", "0.3", "0.4", "0.5", "0.6", "0.7", "0.8" or "0.9". [default= 0.7]. Notice: the larger value represents more dependency on differential expression and less dependency on GPCM, which is based on prior biological knowledge.
+	Optional. Restart coefficient corresponds to multi-RWR (multiple random walk with restart) algorithm. Available options are "0.1", "0.2", "0.3", "0.4", "0.5", "0.6", "0.7", "0.8" or "0.9". [default= 0.7]. Notice: the larger value represents more dependency on differential expression and less dependency on Global pathway crosstalk map (GPCM), which is based on prior biological knowledge.
 --significant_method
 	Optional. Significant method is to choose P value or FDR to screen significant pathways. Availale options are "FDR" or "P_value". [default= "FDR"].
 --significant_threshold
