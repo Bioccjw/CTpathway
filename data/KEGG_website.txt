@@ -1,0 +1,300 @@
+pathway_name	website
+Focal adhesion	https://www.kegg.jp/kegg-bin/show_pathway?hsa04510
+Proteoglycans in cancer	https://www.kegg.jp/kegg-bin/show_pathway?hsa05205
+Human papillomavirus infection	https://www.kegg.jp/kegg-bin/show_pathway?hsa05165
+ECM-receptor interaction	https://www.kegg.jp/kegg-bin/show_pathway?hsa04512
+PI3K-Akt signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04151
+Human T-cell leukemia virus 1 infection	https://www.kegg.jp/kegg-bin/show_pathway?hsa05166
+Hepatocellular carcinoma	https://www.kegg.jp/kegg-bin/show_pathway?hsa05225
+AGE-RAGE signaling pathway in diabetic complications	https://www.kegg.jp/kegg-bin/show_pathway?hsa04933
+Rap1 signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04015
+Pathways in cancer	https://www.kegg.jp/kegg-bin/show_pathway?hsa05200
+Osteoclast differentiation	https://www.kegg.jp/kegg-bin/show_pathway?hsa04380
+Fluid shear stress and atherosclerosis	https://www.kegg.jp/kegg-bin/show_pathway?hsa05418
+Regulation of actin cytoskeleton	https://www.kegg.jp/kegg-bin/show_pathway?hsa04810
+Staphylococcus aureus infection	https://www.kegg.jp/kegg-bin/show_pathway?hsa05150
+Small cell lung cancer	https://www.kegg.jp/kegg-bin/show_pathway?hsa05222
+Adherens junction	https://www.kegg.jp/kegg-bin/show_pathway?hsa04520
+Leukocyte transendothelial migration	https://www.kegg.jp/kegg-bin/show_pathway?hsa04670
+Complement and coagulation cascades	https://www.kegg.jp/kegg-bin/show_pathway?hsa04610
+Breast cancer	https://www.kegg.jp/kegg-bin/show_pathway?hsa05224
+EGFR tyrosine kinase inhibitor resistance	https://www.kegg.jp/kegg-bin/show_pathway?hsa01521
+Basal cell carcinoma	https://www.kegg.jp/kegg-bin/show_pathway?hsa05217
+Signaling pathways regulating pluripotency of stem cells	https://www.kegg.jp/kegg-bin/show_pathway?hsa04550
+VEGF signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04370
+Glioma	https://www.kegg.jp/kegg-bin/show_pathway?hsa05214
+MAPK signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04010
+Wnt signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04310
+Bacterial invasion of epithelial cells	https://www.kegg.jp/kegg-bin/show_pathway?hsa05100
+African trypanosomiasis	https://www.kegg.jp/kegg-bin/show_pathway?hsa05143
+Cell adhesion molecules (CAMs)	https://www.kegg.jp/kegg-bin/show_pathway?hsa04514
+NF-kappa B signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04064
+TGF-beta signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04350
+Leishmaniasis	https://www.kegg.jp/kegg-bin/show_pathway?hsa05140
+Endocrine resistance	https://www.kegg.jp/kegg-bin/show_pathway?hsa01522
+Platelet activation	https://www.kegg.jp/kegg-bin/show_pathway?hsa04611
+Rheumatoid arthritis	https://www.kegg.jp/kegg-bin/show_pathway?hsa05323
+Hippo signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04390
+B cell receptor signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04662
+Axon guidance	https://www.kegg.jp/kegg-bin/show_pathway?hsa04360
+Phenylalanine metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00360
+p53 signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04115
+Dilated cardiomyopathy (DCM)	https://www.kegg.jp/kegg-bin/show_pathway?hsa05414
+Fc gamma R-mediated phagocytosis	https://www.kegg.jp/kegg-bin/show_pathway?hsa04666
+Phospholipase D signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04072
+Toxoplasmosis	https://www.kegg.jp/kegg-bin/show_pathway?hsa05145
+Chronic myeloid leukemia	https://www.kegg.jp/kegg-bin/show_pathway?hsa05220
+Transcriptional misregulation in cancer	https://www.kegg.jp/kegg-bin/show_pathway?hsa05202
+C-type lectin receptor signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04625
+beta-Alanine metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00410
+Hypertrophic cardiomyopathy (HCM)	https://www.kegg.jp/kegg-bin/show_pathway?hsa05410
+FoxO signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04068
+Hepatitis B	https://www.kegg.jp/kegg-bin/show_pathway?hsa05161
+Prostate cancer	https://www.kegg.jp/kegg-bin/show_pathway?hsa05215
+Choline metabolism in cancer	https://www.kegg.jp/kegg-bin/show_pathway?hsa05231
+Gastric cancer	https://www.kegg.jp/kegg-bin/show_pathway?hsa05226
+PPAR signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa03320
+Tuberculosis	https://www.kegg.jp/kegg-bin/show_pathway?hsa05152
+Pancreatic cancer	https://www.kegg.jp/kegg-bin/show_pathway?hsa05212
+Systemic lupus erythematosus	https://www.kegg.jp/kegg-bin/show_pathway?hsa05322
+Pyrimidine metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00240
+Hippo signaling pathway - multiple species	https://www.kegg.jp/kegg-bin/show_pathway?hsa04392
+Fc epsilon RI signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04664
+Chagas disease (American trypanosomiasis)	https://www.kegg.jp/kegg-bin/show_pathway?hsa05142
+Mineral absorption	https://www.kegg.jp/kegg-bin/show_pathway?hsa04978
+Th17 cell differentiation	https://www.kegg.jp/kegg-bin/show_pathway?hsa04659
+cGMP-PKG signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04022
+Malaria	https://www.kegg.jp/kegg-bin/show_pathway?hsa05144
+Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	https://www.kegg.jp/kegg-bin/show_pathway?hsa00532
+Glycine, serine and threonine metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00260
+Viral myocarditis	https://www.kegg.jp/kegg-bin/show_pathway?hsa05416
+Salmonella infection	https://www.kegg.jp/kegg-bin/show_pathway?hsa05132
+Melanoma	https://www.kegg.jp/kegg-bin/show_pathway?hsa05218
+Colorectal cancer	https://www.kegg.jp/kegg-bin/show_pathway?hsa05210
+Vascular smooth muscle contraction	https://www.kegg.jp/kegg-bin/show_pathway?hsa04270
+Acute myeloid leukemia	https://www.kegg.jp/kegg-bin/show_pathway?hsa05221
+Tryptophan metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00380
+Cholesterol metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa04979
+ErbB signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04012
+Renal cell carcinoma	https://www.kegg.jp/kegg-bin/show_pathway?hsa05211
+Cell cycle	https://www.kegg.jp/kegg-bin/show_pathway?hsa04110
+Relaxin signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04926
+Pertussis	https://www.kegg.jp/kegg-bin/show_pathway?hsa05133
+Alzheimer disease	https://www.kegg.jp/kegg-bin/show_pathway?hsa05010
+IL-17 signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04657
+Non-small cell lung cancer	https://www.kegg.jp/kegg-bin/show_pathway?hsa05223
+Histidine metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00340
+Lipoic acid metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00785
+Sphingolipid signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04071
+Purine metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00230
+Proximal tubule bicarbonate reclamation	https://www.kegg.jp/kegg-bin/show_pathway?hsa04964
+Pyruvate metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00620
+HIF-1 signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04066
+Platinum drug resistance	https://www.kegg.jp/kegg-bin/show_pathway?hsa01524
+Thyroid cancer	https://www.kegg.jp/kegg-bin/show_pathway?hsa05216
+Epithelial cell signaling in Helicobacter pylori infection	https://www.kegg.jp/kegg-bin/show_pathway?hsa05120
+Apoptosis	https://www.kegg.jp/kegg-bin/show_pathway?hsa04210
+Carbohydrate digestion and absorption	https://www.kegg.jp/kegg-bin/show_pathway?hsa04973
+Inflammatory bowel disease (IBD)	https://www.kegg.jp/kegg-bin/show_pathway?hsa05321
+T cell receptor signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04660
+Endometrial cancer	https://www.kegg.jp/kegg-bin/show_pathway?hsa05213
+Cellular senescence	https://www.kegg.jp/kegg-bin/show_pathway?hsa04218
+Influenza A	https://www.kegg.jp/kegg-bin/show_pathway?hsa05164
+Sulfur metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00920
+Valine, leucine and isoleucine degradation	https://www.kegg.jp/kegg-bin/show_pathway?hsa00280
+Pathogenic Escherichia coli infection	https://www.kegg.jp/kegg-bin/show_pathway?hsa05130
+Glutathione metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00480
+Glyoxylate and dicarboxylate metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00630
+Prolactin signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04917
+Nicotinate and nicotinamide metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00760
+Arachidonic acid metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00590
+One carbon pool by folate	https://www.kegg.jp/kegg-bin/show_pathway?hsa00670
+Epstein-Barr virus infection	https://www.kegg.jp/kegg-bin/show_pathway?hsa05169
+GnRH signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04912
+mTOR signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04150
+Central carbon metabolism in cancer	https://www.kegg.jp/kegg-bin/show_pathway?hsa05230
+Legionellosis	https://www.kegg.jp/kegg-bin/show_pathway?hsa05134
+Th1 and Th2 cell differentiation	https://www.kegg.jp/kegg-bin/show_pathway?hsa04658
+Propanoate metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00640
+Pantothenate and CoA biosynthesis	https://www.kegg.jp/kegg-bin/show_pathway?hsa00770
+Arginine and proline metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00330
+Taurine and hypotaurine metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00430
+Thyroid hormone signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04919
+Bladder cancer	https://www.kegg.jp/kegg-bin/show_pathway?hsa05219
+Tyrosine metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00350
+Glycosphingolipid biosynthesis - globo and isoglobo series	https://www.kegg.jp/kegg-bin/show_pathway?hsa00603
+Toll-like receptor signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04620
+Type I diabetes mellitus	https://www.kegg.jp/kegg-bin/show_pathway?hsa04940
+Inositol phosphate metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00562
+Type II diabetes mellitus	https://www.kegg.jp/kegg-bin/show_pathway?hsa04930
+Riboflavin metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00740
+Gap junction	https://www.kegg.jp/kegg-bin/show_pathway?hsa04540
+Parathyroid hormone synthesis, secretion and action	https://www.kegg.jp/kegg-bin/show_pathway?hsa04928
+Tight junction	https://www.kegg.jp/kegg-bin/show_pathway?hsa04530
+N-Glycan biosynthesis	https://www.kegg.jp/kegg-bin/show_pathway?hsa00510
+Amyotrophic lateral sclerosis (ALS)	https://www.kegg.jp/kegg-bin/show_pathway?hsa05014
+Neurotrophin signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04722
+Measles	https://www.kegg.jp/kegg-bin/show_pathway?hsa05162
+Alanine, aspartate and glutamate metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00250
+Butanoate metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00650
+Fanconi anemia pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa03460
+AMPK signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04152
+TNF signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04668
+Non-alcoholic fatty liver disease (NAFLD)	https://www.kegg.jp/kegg-bin/show_pathway?hsa04932
+Citrate cycle (TCA cycle)	https://www.kegg.jp/kegg-bin/show_pathway?hsa00020
+Neomycin, kanamycin and gentamicin biosynthesis	https://www.kegg.jp/kegg-bin/show_pathway?hsa00524
+Ubiquinone and other terpenoid-quinone biosynthesis	https://www.kegg.jp/kegg-bin/show_pathway?hsa00130
+Steroid biosynthesis	https://www.kegg.jp/kegg-bin/show_pathway?hsa00100
+Peroxisome	https://www.kegg.jp/kegg-bin/show_pathway?hsa04146
+Human cytomegalovirus infection	https://www.kegg.jp/kegg-bin/show_pathway?hsa05163
+Vitamin B6 metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00750
+Insulin resistance	https://www.kegg.jp/kegg-bin/show_pathway?hsa04931
+Estrogen signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04915
+Circadian rhythm	https://www.kegg.jp/kegg-bin/show_pathway?hsa04710
+Glycerolipid metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00561
+D-Glutamine and D-glutamate metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00471
+Mucin type O-glycan biosynthesis	https://www.kegg.jp/kegg-bin/show_pathway?hsa00512
+Allograft rejection	https://www.kegg.jp/kegg-bin/show_pathway?hsa05330
+Synthesis and degradation of ketone bodies	https://www.kegg.jp/kegg-bin/show_pathway?hsa00072
+Fatty acid biosynthesis	https://www.kegg.jp/kegg-bin/show_pathway?hsa00061
+Cushing syndrome	https://www.kegg.jp/kegg-bin/show_pathway?hsa04934
+Thiamine metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00730
+Glycosaminoglycan degradation	https://www.kegg.jp/kegg-bin/show_pathway?hsa00531
+Shigellosis	https://www.kegg.jp/kegg-bin/show_pathway?hsa05131
+Hepatitis C	https://www.kegg.jp/kegg-bin/show_pathway?hsa05160
+Inflammatory mediator regulation of TRP channels	https://www.kegg.jp/kegg-bin/show_pathway?hsa04750
+Sphingolipid metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00600
+Melanogenesis	https://www.kegg.jp/kegg-bin/show_pathway?hsa04916
+Glycosphingolipid biosynthesis - ganglio series	https://www.kegg.jp/kegg-bin/show_pathway?hsa00604
+Notch signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04330
+Fatty acid degradation	https://www.kegg.jp/kegg-bin/show_pathway?hsa00071
+Protein processing in endoplasmic reticulum	https://www.kegg.jp/kegg-bin/show_pathway?hsa04141
+Glycolysis / Gluconeogenesis	https://www.kegg.jp/kegg-bin/show_pathway?hsa00010
+Oxytocin signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04921
+Long-term depression	https://www.kegg.jp/kegg-bin/show_pathway?hsa04730
+Synaptic vesicle cycle	https://www.kegg.jp/kegg-bin/show_pathway?hsa04721
+Intestinal immune network for IgA production	https://www.kegg.jp/kegg-bin/show_pathway?hsa04672
+Mitophagy - animal	https://www.kegg.jp/kegg-bin/show_pathway?hsa04137
+Natural killer cell mediated cytotoxicity	https://www.kegg.jp/kegg-bin/show_pathway?hsa04650
+Ferroptosis	https://www.kegg.jp/kegg-bin/show_pathway?hsa04216
+Phosphatidylinositol signaling system	https://www.kegg.jp/kegg-bin/show_pathway?hsa04070
+JAK-STAT signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04630
+Phosphonate and phosphinate metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00440
+Adipocytokine signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04920
+Aldosterone-regulated sodium reabsorption	https://www.kegg.jp/kegg-bin/show_pathway?hsa04960
+Cysteine and methionine metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00270
+Longevity regulating pathway - multiple species	https://www.kegg.jp/kegg-bin/show_pathway?hsa04213
+Autoimmune thyroid disease	https://www.kegg.jp/kegg-bin/show_pathway?hsa05320
+Huntington disease	https://www.kegg.jp/kegg-bin/show_pathway?hsa05016
+Sulfur relay system	https://www.kegg.jp/kegg-bin/show_pathway?hsa04122
+Selenocompound metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00450
+Folate biosynthesis	https://www.kegg.jp/kegg-bin/show_pathway?hsa00790
+Antifolate resistance	https://www.kegg.jp/kegg-bin/show_pathway?hsa01523
+Cardiac muscle contraction	https://www.kegg.jp/kegg-bin/show_pathway?hsa04260
+Amoebiasis	https://www.kegg.jp/kegg-bin/show_pathway?hsa05146
+Arginine biosynthesis	https://www.kegg.jp/kegg-bin/show_pathway?hsa00220
+Drug metabolism - other enzymes	https://www.kegg.jp/kegg-bin/show_pathway?hsa00983
+Terpenoid backbone biosynthesis	https://www.kegg.jp/kegg-bin/show_pathway?hsa00900
+SNARE interactions in vesicular transport	https://www.kegg.jp/kegg-bin/show_pathway?hsa04130
+Pancreatic secretion	https://www.kegg.jp/kegg-bin/show_pathway?hsa04972
+Ribosome biogenesis in eukaryotes	https://www.kegg.jp/kegg-bin/show_pathway?hsa03008
+Glycosaminoglycan biosynthesis - heparan sulfate / heparin	https://www.kegg.jp/kegg-bin/show_pathway?hsa00534
+Viral carcinogenesis	https://www.kegg.jp/kegg-bin/show_pathway?hsa05203
+Antigen processing and presentation	https://www.kegg.jp/kegg-bin/show_pathway?hsa04612
+RNA degradation	https://www.kegg.jp/kegg-bin/show_pathway?hsa03018
+Endocytosis	https://www.kegg.jp/kegg-bin/show_pathway?hsa04144
+Graft-versus-host disease	https://www.kegg.jp/kegg-bin/show_pathway?hsa05332
+Lysine degradation	https://www.kegg.jp/kegg-bin/show_pathway?hsa00310
+Caffeine metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00232
+Amphetamine addiction	https://www.kegg.jp/kegg-bin/show_pathway?hsa05031
+Cytokine-cytokine receptor interaction	https://www.kegg.jp/kegg-bin/show_pathway?hsa04060
+Phenylalanine, tyrosine and tryptophan biosynthesis	https://www.kegg.jp/kegg-bin/show_pathway?hsa00400
+MicroRNAs in cancer	https://www.kegg.jp/kegg-bin/show_pathway?hsa05206
+Amino sugar and nucleotide sugar metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00520
+Progesterone-mediated oocyte maturation	https://www.kegg.jp/kegg-bin/show_pathway?hsa04914
+Insulin signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04910
+Nitrogen metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00910
+Oocyte meiosis	https://www.kegg.jp/kegg-bin/show_pathway?hsa04114
+Biotin metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00780
+Calcium signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04020
+Phagosome	https://www.kegg.jp/kegg-bin/show_pathway?hsa04145
+Ras signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04014
+Fat digestion and absorption	https://www.kegg.jp/kegg-bin/show_pathway?hsa04975
+Glycosphingolipid biosynthesis - lacto and neolacto series	https://www.kegg.jp/kegg-bin/show_pathway?hsa00601
+mRNA surveillance pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa03015
+Vitamin digestion and absorption	https://www.kegg.jp/kegg-bin/show_pathway?hsa04977
+Arrhythmogenic right ventricular cardiomyopathy (ARVC)	https://www.kegg.jp/kegg-bin/show_pathway?hsa05412
+Thermogenesis	https://www.kegg.jp/kegg-bin/show_pathway?hsa04714
+Chemical carcinogenesis	https://www.kegg.jp/kegg-bin/show_pathway?hsa05204
+Nicotine addiction	https://www.kegg.jp/kegg-bin/show_pathway?hsa05033
+Metabolism of xenobiotics by cytochrome P450	https://www.kegg.jp/kegg-bin/show_pathway?hsa00980
+Apelin signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04371
+Pentose phosphate pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa00030
+Cocaine addiction	https://www.kegg.jp/kegg-bin/show_pathway?hsa05030
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	https://www.kegg.jp/kegg-bin/show_pathway?hsa00563
+Fructose and mannose metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00051
+Neuroactive ligand-receptor interaction	https://www.kegg.jp/kegg-bin/show_pathway?hsa04080
+Herpes simplex virus 1 infection	https://www.kegg.jp/kegg-bin/show_pathway?hsa05168
+NOD-like receptor signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04621
+RNA transport	https://www.kegg.jp/kegg-bin/show_pathway?hsa03013
+Cortisol synthesis and secretion	https://www.kegg.jp/kegg-bin/show_pathway?hsa04927
+Asthma	https://www.kegg.jp/kegg-bin/show_pathway?hsa05310
+Porphyrin and chlorophyll metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00860
+Aldosterone synthesis and secretion	https://www.kegg.jp/kegg-bin/show_pathway?hsa04925
+Drug metabolism - cytochrome P450	https://www.kegg.jp/kegg-bin/show_pathway?hsa00982
+Renin secretion	https://www.kegg.jp/kegg-bin/show_pathway?hsa04924
+Autophagy - other	https://www.kegg.jp/kegg-bin/show_pathway?hsa04136
+cAMP signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04024
+Cytosolic DNA-sensing pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04623
+Kaposi sarcoma-associated herpesvirus infection	https://www.kegg.jp/kegg-bin/show_pathway?hsa05167
+Starch and sucrose metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00500
+Ether lipid metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00565
+Fatty acid elongation	https://www.kegg.jp/kegg-bin/show_pathway?hsa00062
+Galactose metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00052
+Homologous recombination	https://www.kegg.jp/kegg-bin/show_pathway?hsa03440
+Adrenergic signaling in cardiomyocytes	https://www.kegg.jp/kegg-bin/show_pathway?hsa04261
+RIG-I-like receptor signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04622
+Human immunodeficiency virus 1 infection	https://www.kegg.jp/kegg-bin/show_pathway?hsa05170
+Thyroid hormone synthesis	https://www.kegg.jp/kegg-bin/show_pathway?hsa04918
+Linoleic acid metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00591
+Renin-angiotensin system	https://www.kegg.jp/kegg-bin/show_pathway?hsa04614
+Longevity regulating pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04211
+Gastric acid secretion	https://www.kegg.jp/kegg-bin/show_pathway?hsa04971
+Maturity onset diabetes of the young	https://www.kegg.jp/kegg-bin/show_pathway?hsa04950
+Autophagy - animal	https://www.kegg.jp/kegg-bin/show_pathway?hsa04140
+Glucagon signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04922
+Glycerophospholipid metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00564
+Primary bile acid biosynthesis	https://www.kegg.jp/kegg-bin/show_pathway?hsa00120
+alpha-Linolenic acid metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00592
+Retrograde endocannabinoid signaling	https://www.kegg.jp/kegg-bin/show_pathway?hsa04723
+Chemokine signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04062
+Endocrine and other factor-regulated calcium reabsorption	https://www.kegg.jp/kegg-bin/show_pathway?hsa04961
+Necroptosis	https://www.kegg.jp/kegg-bin/show_pathway?hsa04217
+Long-term potentiation	https://www.kegg.jp/kegg-bin/show_pathway?hsa04720
+Mannose type O-glycan biosynthesis	https://www.kegg.jp/kegg-bin/show_pathway?hsa00515
+Insulin secretion	https://www.kegg.jp/kegg-bin/show_pathway?hsa04911
+Salivary secretion	https://www.kegg.jp/kegg-bin/show_pathway?hsa04970
+Prion diseases	https://www.kegg.jp/kegg-bin/show_pathway?hsa05020
+Oxidative phosphorylation	https://www.kegg.jp/kegg-bin/show_pathway?hsa00190
+Cholinergic synapse	https://www.kegg.jp/kegg-bin/show_pathway?hsa04725
+Dopaminergic synapse	https://www.kegg.jp/kegg-bin/show_pathway?hsa04728
+Vasopressin-regulated water reabsorption	https://www.kegg.jp/kegg-bin/show_pathway?hsa04962
+Regulation of lipolysis in adipocytes	https://www.kegg.jp/kegg-bin/show_pathway?hsa04923
+Vibrio cholerae infection	https://www.kegg.jp/kegg-bin/show_pathway?hsa05110
+Serotonergic synapse	https://www.kegg.jp/kegg-bin/show_pathway?hsa04726
+Glutamatergic synapse	https://www.kegg.jp/kegg-bin/show_pathway?hsa04724
+Circadian entrainment	https://www.kegg.jp/kegg-bin/show_pathway?hsa04713
+Morphine addiction	https://www.kegg.jp/kegg-bin/show_pathway?hsa05032
+GABAergic synapse	https://www.kegg.jp/kegg-bin/show_pathway?hsa04727
+Hedgehog signaling pathway	https://www.kegg.jp/kegg-bin/show_pathway?hsa04340
+Parkinson disease	https://www.kegg.jp/kegg-bin/show_pathway?hsa05012
+Alcoholism	https://www.kegg.jp/kegg-bin/show_pathway?hsa05034
+Ovarian steroidogenesis	https://www.kegg.jp/kegg-bin/show_pathway?hsa04913
+Bile secretion	https://www.kegg.jp/kegg-bin/show_pathway?hsa04976
+Taste transduction	https://www.kegg.jp/kegg-bin/show_pathway?hsa04742
+Phototransduction	https://www.kegg.jp/kegg-bin/show_pathway?hsa04744
+Steroid hormone biosynthesis	https://www.kegg.jp/kegg-bin/show_pathway?hsa00140
+Retinol metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00830
+Pentose and glucuronate interconversions	https://www.kegg.jp/kegg-bin/show_pathway?hsa00040
+Ascorbate and aldarate metabolism	https://www.kegg.jp/kegg-bin/show_pathway?hsa00053
+Olfactory transduction	https://www.kegg.jp/kegg-bin/show_pathway?hsa04740

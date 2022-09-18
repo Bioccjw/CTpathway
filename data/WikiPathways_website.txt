@@ -1,0 +1,11 @@
+pathway_name	website
+Cardiac Hypertrophic Response	http://identifiers.org/wikipathways/WP2795
+Diclofenac Metabolic Pathway	http://identifiers.org/wikipathways/WP2491
+IL-1 signaling pathway	http://identifiers.org/wikipathways/WP195
+IL-6 signaling pathway	http://identifiers.org/wikipathways/WP364
+IL17 signaling pathway	http://identifiers.org/wikipathways/WP2112
+Integrated Breast Cancer Pathway	http://identifiers.org/wikipathways/WP1984
+Integrated Cancer pathway	http://identifiers.org/wikipathways/WP1971
+Parkin-Ubiquitin Proteasomal System pathway	http://identifiers.org/wikipathways/WP2359
+PDGF Pathway	http://identifiers.org/wikipathways/WP2526
+TGF Beta Signaling Pathway	http://identifiers.org/wikipathways/WP560

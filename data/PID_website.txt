@@ -1,0 +1,135 @@
+pathway_name	website
+IL8- and CXCR2-mediated signaling events	http://public.ndexbio.org/viewer/networks/fe78e284-6193-11e5-8ac5-06603eb7f303
+Syndecan-2-mediated signaling events	http://public.ndexbio.org/viewer/networks/fe05ead7-6195-11e5-8ac5-06603eb7f303
+Downstream signaling in naïve CD8+ T cells	http://public.ndexbio.org/viewer/networks/fc5e2bc0-b7be-11e9-8bb4-0ac135e8bacf
+EPHA2 forward signaling	http://public.ndexbio.org/viewer/networks/fb172ba9-6191-11e5-8ac5-06603eb7f303
+RAC1 signaling pathway	http://public.ndexbio.org/viewer/networks/faffa4fc-6194-11e5-8ac5-06603eb7f303
+Syndecan-1-mediated signaling events	http://public.ndexbio.org/viewer/networks/f957cc16-6195-11e5-8ac5-06603eb7f303
+IL8- and CXCR1-mediated signaling events	http://public.ndexbio.org/viewer/networks/f6a58ef3-6193-11e5-8ac5-06603eb7f303
+Presenilin action in Notch and Wnt signaling	http://public.ndexbio.org/viewer/networks/f51de83a-6194-11e5-8ac5-06603eb7f303
+EPHA forward signaling	http://public.ndexbio.org/viewer/networks/f25420e8-6191-11e5-8ac5-06603eb7f303
+Signaling mediated by p38-gamma and p38-delta	http://public.ndexbio.org/viewer/networks/eef25bf2-6195-11e5-8ac5-06603eb7f303
+PLK3 signaling events	http://public.ndexbio.org/viewer/networks/eac8a4b8-6194-11e5-8ac5-06603eb7f303
+Signaling mediated by p38-alpha and p38-beta	http://public.ndexbio.org/viewer/networks/e9dd8c21-6195-11e5-8ac5-06603eb7f303
+IL6-mediated signaling events	http://public.ndexbio.org/viewer/networks/e684d5d2-6193-11e5-8ac5-06603eb7f303
+PLK1 signaling events	http://public.ndexbio.org/viewer/networks/e5e87977-6194-11e5-8ac5-06603eb7f303
+Signaling events regulated by Ret tyrosine kinase	http://public.ndexbio.org/viewer/networks/e4431190-6195-11e5-8ac5-06603eb7f303
+Plexin-D1 Signaling	http://public.ndexbio.org/viewer/networks/e3068f36-6194-11e5-8ac5-06603eb7f303
+IL5-mediated signaling events	http://public.ndexbio.org/viewer/networks/e1d816a1-6193-11e5-8ac5-06603eb7f303
+Plasma membrane estrogen receptor signaling	http://public.ndexbio.org/viewer/networks/dcc37895-6194-11e5-8ac5-06603eb7f303
+Endogenous TLR signaling	http://public.ndexbio.org/viewer/networks/d8777e16-6191-11e5-8ac5-06603eb7f303
+Signaling events mediated by VEGFR1 and VEGFR2	http://public.ndexbio.org/viewer/networks/d6f6ae1f-6195-11e5-8ac5-06603eb7f303
+EGFR-dependent Endothelin signaling events	http://public.ndexbio.org/viewer/networks/d4563605-6191-11e5-8ac5-06603eb7f303
+Signaling events mediated by the Hedgehog family	http://public.ndexbio.org/viewer/networks/d3a49cee-6195-11e5-8ac5-06603eb7f303
+FoxO family signaling	http://public.ndexbio.org/viewer/networks/d06dbbda-6192-11e5-8ac5-06603eb7f303
+IL4-mediated signaling events	http://public.ndexbio.org/viewer/networks/cff33f50-6193-11e5-8ac5-06603eb7f303
+Signaling events mediated by TCPTP	http://public.ndexbio.org/viewer/networks/cd5ca44d-6195-11e5-8ac5-06603eb7f303
+PDGFR-beta signaling pathway	http://public.ndexbio.org/viewer/networks/c901a3e4-6194-11e5-8ac5-06603eb7f303
+IL3-mediated signaling events	http://public.ndexbio.org/viewer/networks/c868db9f-6193-11e5-8ac5-06603eb7f303
+Signaling events mediated by Stem cell factor receptor (c-Kit)	http://public.ndexbio.org/viewer/networks/c6b6861c-6195-11e5-8ac5-06603eb7f303
+PDGFR-alpha signaling pathway	http://public.ndexbio.org/viewer/networks/c66cc833-6194-11e5-8ac5-06603eb7f303
+PDGF receptor signaling network	http://public.ndexbio.org/viewer/networks/c5bcd922-6194-11e5-8ac5-06603eb7f303
+PAR4-mediated thrombin signaling events	http://public.ndexbio.org/viewer/networks/c3b87da1-6194-11e5-8ac5-06603eb7f303
+IL27-mediated signaling events	http://public.ndexbio.org/viewer/networks/c134fc5e-6193-11e5-8ac5-06603eb7f303
+PAR1-mediated thrombin signaling events	http://public.ndexbio.org/viewer/networks/be5084c0-6194-11e5-8ac5-06603eb7f303
+Signaling events mediated by PTP1B	http://public.ndexbio.org/viewer/networks/be498a9b-6195-11e5-8ac5-06603eb7f303
+Signaling events mediated by PRL	http://public.ndexbio.org/viewer/networks/bb67523a-6195-11e5-8ac5-06603eb7f303
+Calcium signaling in the CD4+ TCR pathway	http://public.ndexbio.org/viewer/networks/b792e6db-795c-11e8-a4bf-0ac135e8bacf
+Canonical Wnt signaling pathway	http://public.ndexbio.org/viewer/networks/b7826c17-795c-11e8-a4bf-0ac135e8bacf
+CD40/CD40L signaling	http://public.ndexbio.org/viewer/networks/b7721863-795c-11e8-a4bf-0ac135e8bacf
+CDC42 signaling events	http://public.ndexbio.org/viewer/networks/b76a7740-795c-11e8-a4bf-0ac135e8bacf
+Ceramide signaling pathway	http://public.ndexbio.org/viewer/networks/b74eb1d6-795c-11e8-a4bf-0ac135e8bacf
+Class I PI3K signaling events mediated by Akt	http://public.ndexbio.org/viewer/networks/b73f2172-795c-11e8-a4bf-0ac135e8bacf
+Class I PI3K signaling events	http://public.ndexbio.org/viewer/networks/b737a760-795c-11e8-a4bf-0ac135e8bacf
+IL23-mediated signaling events	http://public.ndexbio.org/viewer/networks/b71d0ffd-6193-11e5-8ac5-06603eb7f303
+CXCR3-mediated signaling events	http://public.ndexbio.org/viewer/networks/b70ec299-795c-11e8-a4bf-0ac135e8bacf
+p75(NTR)-mediated signaling	http://public.ndexbio.org/viewer/networks/b492782f-6194-11e5-8ac5-06603eb7f303
+E-cadherin signaling in the nascent adherens junction	http://public.ndexbio.org/viewer/networks/aef0d8c2-6191-11e5-8ac5-06603eb7f303
+Signaling events mediated by Hepatocyte Growth Factor Receptor (c-Met)	http://public.ndexbio.org/viewer/networks/ac39d2b9-6195-11e5-8ac5-06603eb7f303
+Signaling events mediated by HDAC Class III	http://public.ndexbio.org/viewer/networks/a7191c08-6195-11e5-8ac5-06603eb7f303
+E-cadherin signaling in keratinocytes	http://public.ndexbio.org/viewer/networks/a5f1af61-6191-11e5-8ac5-06603eb7f303
+IL2-mediated signaling events	http://public.ndexbio.org/viewer/networks/a2a1883c-6193-11e5-8ac5-06603eb7f303
+Signaling events mediated by HDAC Class II	http://public.ndexbio.org/viewer/networks/a1da5607-6195-11e5-8ac5-06603eb7f303
+p38 signaling mediated by MAPKAP kinases	http://public.ndexbio.org/viewer/networks/9d980dbc-6194-11e5-8ac5-06603eb7f303
+p38 MAPK signaling pathway	http://public.ndexbio.org/viewer/networks/99bea41b-6194-11e5-8ac5-06603eb7f303
+IL2 signaling events mediated by STAT5	http://public.ndexbio.org/viewer/networks/9938526b-6193-11e5-8ac5-06603eb7f303
+FGF signaling pathway	http://public.ndexbio.org/viewer/networks/98ed0df6-6192-11e5-8ac5-06603eb7f303
+Wnt signaling network	http://public.ndexbio.org/viewer/networks/987a2b9f-6196-11e5-8ac5-06603eb7f303
+Signaling events mediated by HDAC Class I	http://public.ndexbio.org/viewer/networks/97e84126-6195-11e5-8ac5-06603eb7f303
+VEGFR3 signaling in lymphatic endothelium	http://public.ndexbio.org/viewer/networks/9048d98c-6196-11e5-8ac5-06603eb7f303
+Signaling events mediated by focal adhesion kinase	http://public.ndexbio.org/viewer/networks/8fb80085-6195-11e5-8ac5-06603eb7f303
+IL2 signaling events mediated by PI3K	http://public.ndexbio.org/viewer/networks/8bbf39aa-6193-11e5-8ac5-06603eb7f303
+VEGF and VEGFR signaling network	http://public.ndexbio.org/viewer/networks/8957818a-6196-11e5-8ac5-06603eb7f303
+Notch signaling pathway	http://public.ndexbio.org/viewer/networks/88f83518-6194-11e5-8ac5-06603eb7f303
+Fc-epsilon receptor I signaling in mast cells	http://public.ndexbio.org/viewer/networks/86cd7795-6192-11e5-8ac5-06603eb7f303
+SHP2 signaling	http://public.ndexbio.org/viewer/networks/85755aa4-6195-11e5-8ac5-06603eb7f303
+Nongenotropic Androgen signaling	http://public.ndexbio.org/viewer/networks/843e2f77-6194-11e5-8ac5-06603eb7f303
+Noncanonical Wnt signaling pathway	http://public.ndexbio.org/viewer/networks/7ff5fe76-6194-11e5-8ac5-06603eb7f303
+IL12-mediated signaling events	http://public.ndexbio.org/viewer/networks/7acdea19-6193-11e5-8ac5-06603eb7f303
+FAS (CD95) signaling pathway	http://public.ndexbio.org/viewer/networks/79cc9c14-6192-11e5-8ac5-06603eb7f303
+Neurotrophic factor-mediated Trk receptor signaling	http://public.ndexbio.org/viewer/networks/774988f5-6194-11e5-8ac5-06603eb7f303
+IL12 signaling mediated by STAT4	http://public.ndexbio.org/viewer/networks/72cf19b8-6193-11e5-8ac5-06603eb7f303
+Netrin-mediated signaling events	http://public.ndexbio.org/viewer/networks/716a3d34-6194-11e5-8ac5-06603eb7f303
+Nephrin/Neph1 signaling in the kidney podocyte	http://public.ndexbio.org/viewer/networks/6cfb9873-6194-11e5-8ac5-06603eb7f303
+IL1-mediated signaling events	http://public.ndexbio.org/viewer/networks/68fce8e7-6193-11e5-8ac5-06603eb7f303
+BMP receptor signaling	http://public.ndexbio.org/viewer/networks/63897acb-78c3-11e8-a4bf-0ac135e8bacf
+Beta5 beta6 beta7 and beta8 integrin cell surface interactions	http://public.ndexbio.org/viewer/networks/61e17018-78c3-11e8-a4bf-0ac135e8bacf
+Calcineurin-regulated NFAT-dependent transcription in lymphocytes	http://public.ndexbio.org/viewer/networks/61bdd46d-6195-11e5-8ac5-06603eb7f303
+Role of Calcineurin-dependent NFAT signaling in lymphocytes	http://public.ndexbio.org/viewer/networks/61bdd46d-6195-11e5-8ac5-06603eb7f303
+ErbB4 signaling events	http://public.ndexbio.org/viewer/networks/6104ebb2-6192-11e5-8ac5-06603eb7f303
+Beta3 integrin cell surface interactions	http://public.ndexbio.org/viewer/networks/607b7775-78c3-11e8-a4bf-0ac135e8bacf
+N-cadherin signaling events	http://public.ndexbio.org/viewer/networks/5fc9c1e1-6194-11e5-8ac5-06603eb7f303
+Beta2 integrin cell surface interactions	http://public.ndexbio.org/viewer/networks/5ef60ff2-78c3-11e8-a4bf-0ac135e8bacf
+Beta1 integrin cell surface interactions	http://public.ndexbio.org/viewer/networks/5d7ae19f-78c3-11e8-a4bf-0ac135e8bacf
+RhoA signaling pathway	http://public.ndexbio.org/viewer/networks/5c6b5f5c-6195-11e5-8ac5-06603eb7f303
+BCR signaling pathway	http://public.ndexbio.org/viewer/networks/5bf48fbc-78c3-11e8-a4bf-0ac135e8bacf
+BARD1 signaling events	http://public.ndexbio.org/viewer/networks/5a1fcfb9-78c3-11e8-a4bf-0ac135e8bacf
+Aurora C signaling	http://public.ndexbio.org/viewer/networks/58958636-78c3-11e8-a4bf-0ac135e8bacf
+Retinoic acid receptors-mediated signaling	http://public.ndexbio.org/viewer/networks/5797691b-6195-11e5-8ac5-06603eb7f303
+Aurora B signaling	http://public.ndexbio.org/viewer/networks/573a3bf3-78c3-11e8-a4bf-0ac135e8bacf
+Aurora A signaling	http://public.ndexbio.org/viewer/networks/55a0d740-78c3-11e8-a4bf-0ac135e8bacf
+mTOR signaling pathway	http://public.ndexbio.org/viewer/networks/559dd850-6194-11e5-8ac5-06603eb7f303
+LPA4-mediated signaling events	http://public.ndexbio.org/viewer/networks/53b0602f-6194-11e5-8ac5-06603eb7f303
+ATR signaling pathway	http://public.ndexbio.org/viewer/networks/52a54a7a-78c3-11e8-a4bf-0ac135e8bacf
+ErbB2/ErbB3 signaling events	http://public.ndexbio.org/viewer/networks/51e35311-6192-11e5-8ac5-06603eb7f303
+Urokinase-type plasminogen activator (uPA) and uPAR-mediated signaling	http://public.ndexbio.org/viewer/networks/503076a2-6196-11e5-8ac5-06603eb7f303
+Arf6 signaling events	http://public.ndexbio.org/viewer/networks/4beeb17e-78c3-11e8-a4bf-0ac135e8bacf
+Trk receptor signaling mediated by the MAPK pathway	http://public.ndexbio.org/viewer/networks/4980bb81-6196-11e5-8ac5-06603eb7f303
+CXCR4-mediated signaling events	http://public.ndexbio.org/viewer/networks/46a5529b-6191-11e5-8ac5-06603eb7f303
+LKB1 signaling events	http://public.ndexbio.org/viewer/networks/4623bf6d-6194-11e5-8ac5-06603eb7f303
+Angiopoietin receptor Tie2-mediated signaling	http://public.ndexbio.org/viewer/networks/452ccde2-78c3-11e8-a4bf-0ac135e8bacf
+amb2 Integrin signaling	http://public.ndexbio.org/viewer/networks/4373ac2f-78c3-11e8-a4bf-0ac135e8bacf
+Trk receptor signaling mediated by PI3K and PLC-gamma	http://public.ndexbio.org/viewer/networks/4037def0-6196-11e5-8ac5-06603eb7f303
+Alpha9 beta1 integrin signaling events	http://public.ndexbio.org/viewer/networks/40323cc9-78c3-11e8-a4bf-0ac135e8bacf
+JNK signaling in the CD4+ TCR pathway	http://public.ndexbio.org/viewer/networks/400ebdab-6194-11e5-8ac5-06603eb7f303
+Alpha6 beta4 integrin-ligand interactions	http://public.ndexbio.org/viewer/networks/3e861366-78c3-11e8-a4bf-0ac135e8bacf
+Alpha4 beta1 integrin signaling events	http://public.ndexbio.org/viewer/networks/3d357783-78c3-11e8-a4bf-0ac135e8bacf
+Alpha-synuclein signaling	http://public.ndexbio.org/viewer/networks/3b850860-78c3-11e8-a4bf-0ac135e8bacf
+TRAIL signaling pathway	http://public.ndexbio.org/viewer/networks/3a79fddf-6196-11e5-8ac5-06603eb7f303
+ALK2 signaling events	http://public.ndexbio.org/viewer/networks/39c9278d-78c3-11e8-a4bf-0ac135e8bacf
+ALK1 signaling events	http://public.ndexbio.org/viewer/networks/38610c0a-78c3-11e8-a4bf-0ac135e8bacf
+a6b1 and a6b4 Integrin signaling	http://public.ndexbio.org/viewer/networks/36ac0907-78c3-11e8-a4bf-0ac135e8bacf
+a4b7 Integrin signaling	http://public.ndexbio.org/viewer/networks/34df8664-78c3-11e8-a4bf-0ac135e8bacf
+TNF receptor signaling pathway	http://public.ndexbio.org/viewer/networks/316be05e-6196-11e5-8ac5-06603eb7f303
+ErbB1 downstream signaling	http://public.ndexbio.org/viewer/networks/30d60550-6192-11e5-8ac5-06603eb7f303
+ErbB receptor signaling network	http://public.ndexbio.org/viewer/networks/2c26d51f-6192-11e5-8ac5-06603eb7f303
+Thromboxane A2 receptor signaling	http://public.ndexbio.org/viewer/networks/27d5800d-6196-11e5-8ac5-06603eb7f303
+Regulation of nuclear SMAD2/3 signaling	http://public.ndexbio.org/viewer/networks/246aac04-6195-11e5-8ac5-06603eb7f303
+Integrin-linked kinase signaling	http://public.ndexbio.org/viewer/networks/21738158-6194-11e5-8ac5-06603eb7f303
+EPO signaling pathway	http://public.ndexbio.org/viewer/networks/20fe3c0e-6192-11e5-8ac5-06603eb7f303
+TGF-beta receptor signaling	http://public.ndexbio.org/viewer/networks/1f188fcc-6196-11e5-8ac5-06603eb7f303
+Integrin family cell surface interactions	http://public.ndexbio.org/viewer/networks/1ca2bf67-6194-11e5-8ac5-06603eb7f303
+TCR signaling in naïve CD8+ T cells	http://public.ndexbio.org/viewer/networks/15a017bb-6196-11e5-8ac5-06603eb7f303
+Regulation of nuclear beta catenin signaling and target gene transcription	http://public.ndexbio.org/viewer/networks/1590a3b3-6195-11e5-8ac5-06603eb7f303
+Hedgehog signaling events mediated by Gli proteins	http://public.ndexbio.org/viewer/networks/153b6970-6193-11e5-8ac5-06603eb7f303
+Ephrin B reverse signaling	http://public.ndexbio.org/viewer/networks/149a63dc-6192-11e5-8ac5-06603eb7f303
+Ephrin A reverse signaling	http://public.ndexbio.org/viewer/networks/134e5bdb-6192-11e5-8ac5-06603eb7f303
+Regulation of cytoplasmic and nuclear SMAD2/3 signaling	http://public.ndexbio.org/viewer/networks/13312fe2-6195-11e5-8ac5-06603eb7f303
+TCR signaling in naïve CD4+ T cells	http://public.ndexbio.org/viewer/networks/0c2862fa-6196-11e5-8ac5-06603eb7f303
+GMCSF-mediated signaling events	http://public.ndexbio.org/viewer/networks/095aa3ef-6193-11e5-8ac5-06603eb7f303
+Syndecan-4-mediated signaling events	http://public.ndexbio.org/viewer/networks/076bc549-6196-11e5-8ac5-06603eb7f303
+Reelin signaling pathway	http://public.ndexbio.org/viewer/networks/054f432f-6195-11e5-8ac5-06603eb7f303
+Syndecan-3-mediated signaling events	http://public.ndexbio.org/viewer/networks/052075b8-6196-11e5-8ac5-06603eb7f303
+Ras signaling in the CD4+ TCR pathway	http://public.ndexbio.org/viewer/networks/03079d1e-6195-11e5-8ac5-06603eb7f303
+Rapid glucocorticoid signaling	http://public.ndexbio.org/viewer/networks/01db03fd-6195-11e5-8ac5-06603eb7f303
+EPHB forward signaling	http://public.ndexbio.org/viewer/networks/01c81f4a-6192-11e5-8ac5-06603eb7f303

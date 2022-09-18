@@ -1,0 +1,14 @@
+Cardiac Hypertrophic Response	902	2741	811
+Diclofenac Metabolic Pathway	1995	1384	53	4833	1975
+FTO Obesity Variant Mechanism	8568	14695
+IL-1 signaling pathway	6904	446	2865	2697
+IL-6 signaling pathway	2859	1673	7015	1691	164	249	8300	10547	3272	3690	3213
+IL17 signaling pathway	5460	2052	11042	11904	10315	13961	7302	12852	14357	1937	1179
+Integrated Breast Cancer Pathway	611	445	3674	3759	336
+Integrated Cancer pathway	1921	4239	6368	7512	3471	611	445
+Neural Crest Differentiation	2985	5168
+Parkin-Ubiquitin Proteasomal System pathway	2790	2041	2483	3185	923	2839	2926	6095	4245	444	9361	6170
+PDGF Pathway	138	2965
+Serotonin Transporter Activity	446	2865
+SRF and miRs in Smooth Muscle Differentiation and Proliferation	5568	4425	4077	10923
+TGF Beta Signaling Pathway	6135	2718	13239	2122

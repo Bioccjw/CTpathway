@@ -1,0 +1,195 @@
+pathway_name	website
+1,25-dihydroxyvitamin D3 biosynthesis	https://humancyc.org/HUMAN/NEW-IMAGE?object=PWY-6076&&redirect=T
+phenylethylamine degradation I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=2PHENDEG-PWY
+spermine biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=ARGSPECAT-PWY
+asparagine biosynthesis I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=ASPARAGINE-BIOSYNTHESIS
+asparagine degradation I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=ASPARAGINE-DEG1-PWY-1
+aspartate biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=ASPARTATESYN-PWY
+beta-alanine degradation I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=BETA-ALA-DEGRADATION-I-PWY
+lactose degradation III	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=BGALACT-PWY
+spermidine biosynthesis I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=BSUBPOLYAMSYN-PWY
+coenzyme A biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=COA-PWY-1
+L-cysteine degradation I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=CYSTEINE-DEG-PWY
+fatty acid beta-oxidation I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=FAO-PWY
+glutamine biosynthesis I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=GLNSYN-PWY
+N-acetylglucosamine degradation I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=GLUAMCAT-PWY
+glutamine degradation I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=GLUTAMINDEG-PWY
+glutathione biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=GLUTATHIONESYN-PWY
+glycine biosynthesis I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=GLYSYN-ALA-PWY
+heme biosynthesis from uroporphyrinogen-III I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=HEME-BIOSYNTHESIS-II
+cysteine biosynthesis/homocysteine degradation	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=HOMOCYSDEGR-PWY
+4-hydroxyproline degradation I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=HYDROXYPRODEG-PWY
+triacylglycerol degradation	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=LIPAS-PWY
+phospholipases	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=LIPASYN-PWY
+D-mannose degradation	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=MANNCAT-PWY
+dolichyl-diphosphooligosaccharide biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS
+methylglyoxal degradation VI	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=MGLDLCTANA-PWY
+NAD phosphorylation and dephosphorylation	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=NADPHOS-DEPHOS-PWY-1
+pentose phosphate pathway (non-oxidative branch)	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=NONOXIPENT-PWY
+pentose phosphate pathway (oxidative branch)	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=OXIDATIVEPENT-PWY-1
+adenine and adenosine salvage I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=P121-PWY
+pentose phosphate pathway	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PENTOSE-P-PWY
+phenylalanine degradation I (aerobic)	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PHENYLALANINE-DEG1-PWY
+pyridoxal 5'-phosphate salvage pathway	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PLPSAL-PWY
+proline biosynthesis I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PROSYN-PWY
+putrescine degradation III	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-0
+trehalose degradation II (trehalase)	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY0-1182
+purine ribonucleosides degradation to ribose-1-phosphate	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY0-1296
+glutamate dependent acid resistance	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY0-1305
+acetate conversion to acetyl-CoA	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY0-1313
+PRPP biosynthesis I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY0-662
+formaldehyde oxidation II (glutathione-dependent)	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-1801
+folate polyglutamylation	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-2161
+glutamate removal from folates	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-2161B
+myo-inositol biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-2301
+glycine degradation (creatine biosynthesis)	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-3661-1
+uracil degradation II (reductive)	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-3982
+sphingomyelin metabolism	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY3DJ-11281
+sphingosine and sphingosine-1-phosphate metabolism	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY3DJ-11470
+ceramide biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY3DJ-12
+phosphatidylcholine biosynthesis I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY3O-450
+gamma-glutamyl cycle	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-4041
+glutathione-mediated detoxification I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-4061
+glutathione redox reactions I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-4081
+sorbitol degradation I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-4101
+glycerol degradation I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-4261
+UDP-D-xylose and UDP-D-glucuronate biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-4821
+protein citrullination	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-4921
+citrulline-nitric oxide cycle	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-4983
+urea cycle	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-4984
+phosphatidylethanolamine biosynthesis II	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY4FS-6
+geranylgeranyldiphosphate biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5120
+trans, trans-farnesyl diphosphate biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5123
+fatty acid beta-oxidation III (unsaturated, odd number)	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5137
+fatty acid activation	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5143
+acyl-CoA hydrolysis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5148
+acetyl-CoA biosynthesis III (from citrate)	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5172
+glutaryl-CoA degradation	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5177
+tetrapyrrole biosynthesis II	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5189
+cardiolipin biosynthesis II	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5269
+sulfite oxidation IV	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5326
+L-cysteine degradation II	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5329
+taurine biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5331
+sulfate activation for sulfonation	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5340
+thiosulfate disproportionation III (rhodanese)	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5350
+methylglyoxal degradation I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5386
+methylglyoxal degradation III	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5453
+UDP-N-acetyl-D-galactosamine biosynthesis I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5512
+UDP-N-acetyl-D-galactosamine biosynthesis II	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5514
+D-glucuronate degradation I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5525
+tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5651
+NAD biosynthesis from 2-amino-3-carboxymuconate semialdehyde	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5653
+GDP-mannose biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5659
+GDP-glucose biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5661-1
+tetrahydrobiopterin biosynthesis I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5663
+CDP-diacylglycerol biosynthesis I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5667
+epoxysqualene biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5670
+urate biosynthesis/inosine 5'-phosphate degradation	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5695
+4-hydroxybenzoate biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5754
+superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5910
+heme biosynthesis II	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5920
+L-glutamine biosynthesis II (tRNA-dependent)	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5921
+thio-molybdenum cofactor biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5963
+fatty acid biosynthesis initiation II	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5966-1
+stearate biosynthesis I (animals)	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5972
+oleate biosynthesis II (animals)	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5996
+GDP-L-fucose biosynthesis II (from L-fucose)	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6
+acyl carrier protein metabolism	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6012-1
+serotonin and melatonin biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6030
+zymosterol biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6074
+L-carnitine biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6100
+mitochondrial L-carnitine shuttle pathway	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6111
+spermine and spermidine degradation I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6117
+glycerol-3-phosphate shuttle	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6118
+5-aminoimidazole ribonucleotide biosynthesis I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6121
+inosine-5'-phosphate biosynthesis II	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6124
+dolichol and dolichyl phosphate biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6129
+lanosterol biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6132
+(S)-reticuline biosynthesis II	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6133
+CMP-N-acetylneuraminate biosynthesis I (eukaryotes)	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6138
+creatine-phosphate biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6158
+histamine biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6173
+histamine degradation	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6181
+thyroid hormone biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6241
+selenocysteine biosynthesis II (archaea and eukaryotes)	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6281
+serotonin degradation	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6313
+L-dopa degradation	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6334
+noradrenaline and adrenaline degradation	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6342
+D-myo-inositol (1,4,5)-trisphosphate biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6351
+purine nucleotides degradation II (aerobic)	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6353
+superpathway of D-myo-inositol (1,4,5)-trisphosphate metabolism	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6358
+D-myo-inositol (1,4,5)-trisphosphate degradation	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6363
+D-myo-inositol (1,3,4)-trisphosphate biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6364
+D-myo-inositol (3,4,5,6)-tetrakisphosphate biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6365
+D-myo-inositol (1,4,5,6)-tetrakisphosphate biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6366
+D-myo-inositol-5-phosphate metabolism	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6367
+3-phosphoinositide degradation	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6368
+inositol pyrophosphates biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6369
+superpathway of inositol phosphate compounds	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6371
+alpha-tocopherol degradation	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6377
+Rapoport-Luebering glycolytic shunt	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6405
+thymine degradation	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6430
+L-dopachrome biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6481
+diphthamide biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6482
+eumelanin biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6498
+N-acetylglucosamine degradation II	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6517
+4-aminobutyrate degradation I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6535
+dermatan sulfate biosynthesis (late stages)	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6568
+chondroitin sulfate degradation (metazoa)	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6573
+dermatan sulfate degradation (metazoa)	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6576
+GDP-L-fucose biosynthesis I (from GDP-D-mannose)	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-66
+guanosine nucleotides degradation III	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6608
+adenine and adenosine salvage III	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6609
+tetrahydrofolate salvage from 5,10-methenyltetrahydrofolate	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6613
+oxidative ethanol degradation III	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY66-161
+ethanol degradation IV	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY66-162
+guanine and guanosine salvage I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6620
+ethanol degradation II	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY66-21
+cholesterol biosynthesis II (via 24,25-dihydrolanosterol)	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY66-3
+catecholamine biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY66-301
+cholesterol biosynthesis I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY66-341
+flavin biosynthesis IV (mammalian)	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY66-366
+ketogenesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY66-367
+ketolysis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY66-368
+sucrose degradation V (mammalian)	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY66-373
+leukotriene biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY66-375
+androgen biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY66-378
+dTMP de novo biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY66-385
+fatty acid alpha-oxidation II	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY66-387
+fatty acid alpha-oxidation III	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY66-388
+gluconeogenesis I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY66-399
+cholesterol biosynthesis III (via desmosterol)	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY66-4
+glycolysis I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY66-400
+galactose degradation I (Leloir pathway)	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY66-422
+lysine degradation II	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY66-425
+threonine degradation II	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY66-428
+superpathway of cholesterol biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY66-5
+anandamide degradation	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY6666-1
+dopamine degradation	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY6666-2
+tRNA splicing	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6689
+S-methyl-5-thio-alpha-D-ribose 1-phosphate degradation	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6755
+S-methyl-5'-thioadenosine degradation II	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6756
+molybdenum cofactor biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6823
+thiamin salvage III	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6898
+NADH repair	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-6938
+4-hydroxy-2-nonenal detoxification	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-7112
+pyrimidine ribonucleotides de novo biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-7184
+salvage pathways of pyrimidine ribonucleotides	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-7193
+salvage pathways of pyrimidine deoxyribonucleotides	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-7199
+purine nucleotides de novo biosynthesis II	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-841
+mevalonate pathway I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-922
+S-adenosyl-L-methionine biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=SAM-PWY
+L-serine degradation	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=SERDEG-PWY
+serine biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=SERSYN-PWY
+triacylglycerol biosynthesis	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=TRIGLSYN-PWY
+tRNA charging	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=TRNA-CHARGING-PWY
+tryptophan degradation III (eukaryotic)	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=TRYPTOPHAN-DEGRADATION-1
+tyrosine degradation I	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=TYRFUMCAT-PWY
+UDP-N-acetyl-D-glucosamine biosynthesis II	http://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=UDPNACETYLGALSYN-PWY
+2-amino-3-carboxymuconate semialdehyde degradation to glutaryl-CoA	https://humancyc.org/HUMAN/NEW-IMAGE?object=PWY-5652&&redirect=T
+3-phosphoinositide biosynthesis	https://humancyc.org/HUMAN/NEW-IMAGE?object=PWY-6352&&redirect=T
+1D-myo-inositol hexakisphosphate biosynthesis II (mammalian)	https://humancyc.org/HUMAN/NEW-IMAGE?object=PWY-6362&&redirect=T
+1D-myo-inositol hexakisphosphate biosynthesis V (from Ins(1,3,4)P3)	https://humancyc.org/HUMAN/NEW-IMAGE?object=PWY-6554&&redirect=T
+adenine and adenosine salvage VI	https://humancyc.org/HUMAN/NEW-IMAGE?object=PWY-6619&&redirect=T
+adenosine nucleotides degradation II	https://humancyc.org/HUMAN/NEW-IMAGE?object=PWY-6619&&redirect=T
+2-oxobutanoate degradation I	https://humancyc.org/HUMAN/NEW-IMAGE?type=PATHWAY&object=PWY-5130

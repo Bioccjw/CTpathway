@@ -1,0 +1,154 @@
+pathway_name	website
+Activation of Smo ( Hedgehog signaling pathway )	null
+Adenylate cyclase activation signaling ( GPCR signaling (pertussis toxin) )	null
+Adenylate cyclase inactivation signaling ( GPCR signaling (pertussis toxin) )	null
+AKT(PKB) activation signaling ( Insulin receptor signaling )	null
+AKT(PKB) activation signaling ( Insulin receptor signaling (Mammal) )	null
+AKT(PKB)-Bad signaling ( EPO signaling pathway(JAK2 STAT1 STAT3 STAT5) )	null
+AKT(PKB)-Bad signaling ( Insulin receptor signaling )	null
+AKT(PKB)-GSK3beta signaling ( Insulin receptor signaling )	null
+AKT(PKB)-GSK3beta signaling ( Insulin receptor signaling (Mammal) )	null
+AKT(PKB)-mTOR signaling ( Insulin receptor signaling (Mammal) )	null
+AKT(PKB)-TOR signaling ( Insulin receptor signaling )	null
+B cell receptor signaling pathway ( B cell receptor signaling )	null
+B-Raf activation signaling ( GPCR Adenosine A2A receptor signaling pathway )	null
+Beta catenin degradation signaling (Canonical) ( Canonical Wnt signaling pathway Diagram )	null
+BMP2 signaling pathway(through Smad) ( TGF-beta_BMP Diagram(MolecularVariation) )	null
+BMP2 signaling pathway(through TAK1) ( BMP2 signaling(through TAK1) )	null
+Calcineurin activation signaling ( CD4 T cell receptor signaling )	null
+Canonical Notch signaling pathway ( Notch signaling pathway Diagram )	null
+Canonical Wnt signaling pathway ( Canonical Wnt signaling pathway Diagram )	null
+Caspase3 activation signaling ( Fas signaling pathway )	null
+Caspase8 activation signaling ( Fas signaling pathway )	null
+Caspase9 activation signaling ( Fas signaling pathway )	null
+CD28 signaling ( CD4 T cell receptor signaling )	null
+CD28 signaling ( CD4 T cell receptor signaling (JNK cascade) )	null
+CD4 T cell receptor signaling (through Vav, Rac and JNK cascade ( CD4 T cell receptor signaling (JNK cascade) )	null
+Ci/Gli processing signaling ( Hedgehog signaling pathway )	null
+Cytokine receptor degradation signaling ( JAK-STAT pathway and regulation pathway Diagram )	null
+EGF signaling pathway ( EGF signaling pathway Diagram )	null
+EPO signaling pathway(JAK2 STAT1 STAT3 STAT5) ( EPO signaling pathway(JAK2 STAT1 STAT3 STAT5) )	null
+ERK cascade ( B cell receptor signaling )	null
+ERK cascade ( CD4 T cell receptor signaling (ERK cascade) )	null
+ERK cascade ( EGF signaling pathway Diagram )	null
+ERK cascade ( FGF signaling pathway )	null
+ERK cascade ( GPCR Adenosine A2A receptor signaling pathway )	null
+ERK cascade ( Integrin signaling pathway )	null
+ERK cascade ( PDGF signaling pathway )	null
+Fas signaling pathway ( Fas signaling pathway )	null
+FGF signaling pathway ( FGF signaling pathway )	null
+G alpha i GDP-GTP exchange signaling ( GPCR signaling (pertussis toxin) )	null
+G alpha q GDP-GTP exchange signaling ( GPCR GroupI metabotropic glutamate receptor signaling pathway )	null
+G alpha s GDP-GTP exchange signaling ( GPCR Adenosine A2A receptor signaling pathway )	null
+G alpha s GDP-GTP exchange signaling ( GPCR Dopamine D1like receptor signaling pathway )	null
+G alpha s GDP-GTP exchange signaling ( GPCR signaling (cholera toxin) )	null
+G alpha s GDP-GTP exchange signaling ( GPCR signaling (G alpha q) )	null
+G alpha s GDP-GTP exchange signaling ( GPCR signaling (G alpha s, PKA and ERK) )	null
+Gene expression of c-FLIP ( TNFR1 signaling pathway )	null
+Gene expression of IL2 by AP-1 ( CD4 T cell receptor signaling )	null
+Gene expression of smad6/7 by R-smad:smad4 ( TGF-beta_super_family_signaling_pathway(canonical) )	null
+Gene expression of SOCS by STAT dimer ( JAK-STAT pathway and regulation pathway Diagram )	null
+Gli processing signaling ( Hedgehog signaling pathway )	null
+Growth hormone signaling pathway(JAK2 STAT5) ( Growth hormone signaling(JAK2 STAT5) )	null
+Heterotrimeric GPCR signaling pathway (through Adenosine G alpha s) ( GPCR Adenosine A2A receptor signaling pathway )	null
+Heterotrimeric GPCR signaling pathway (through Dopamine and G alpha s) ( GPCR Dopamine D1like receptor signaling pathway )	null
+Heterotrimeric GPCR signaling pathway (through G alpha i and pertussis toxin) ( GPCR signaling (pertussis toxin) )	null
+Heterotrimeric GPCR signaling pathway (through G alpha q, PLC beta and ERK cascade) ( GPCR signaling (G alpha q) )	null
+Heterotrimeric GPCR signaling pathway (through G alpha s ACs Epac BRaf and ERKcascade) ( GPCR signaling (G alpha s, Epac and ERK) )	null
+Heterotrimeric GPCR signaling pathway (through_G alpha s_ACs_PKA_BRaf_and_ERKcascade)(canonical) ( GPCR signaling (G alpha s, PKA and ERK) )	null
+Heterotrimeric GPCR signaling pathway (through glutamate, G alpha q and PLC beta) ( GPCR GroupI metabotropic glutamate receptor signaling pathway )	null
+HGF signaling pathway ( HGF signaling pathway )	null
+Hh signaling pathway ( Hedgehog signaling pathway )	null
+IFN alpha signaling pathway(JAK1 TYK2 STAT1) ( IFN alpha signaling(JAK1 TYK2 STAT1 STAT2 STAT3) )	null
+IFN alpha signaling pathway((JAK1 TYK2 STAT1 STAT2) ( IFN alpha signaling(JAK1 TYK2 STAT1 STAT2 STAT3) )	null
+IFN alpha signaling pathway(JAK1 TYK2 STAT1 STAT3) ( IFN alpha signaling(JAK1 TYK2 STAT1 STAT2 STAT3) )	null
+IFN alpha signaling pathway(JAK1 TYK2 STAT3) ( IFN alpha signaling(JAK1 TYK2 STAT1 STAT2 STAT3) )	null
+IFN gamma signaling pathway(JAK1 JAK2 STAT1) ( IFN gamma signaling(JAK1 JAK2 STAT1) )	null
+IGF1 signaling pathway ( IGF1 signaling pathway )	null
+IKK activation signaling (through PKC beta and CARMA1:BCL10:MALT1) ( B cell receptor signaling )	null
+IKK-NF-kappaB cascade ( B cell receptor signaling )	null
+IKK-NFkB cascade ( TNFR1 signaling pathway )	null
+IL-1 signaling pathway (through p38 cascade) ( IL-1 signaling pathway (through p38 cascade) )	null
+IL-1_signaling(through_JNK_cascade)(canonical) ( IL-1 signaling pathway (through JNK cascade) )	null
+IL-10 signaling pathway(JAK1 TYK2 STAT3) ( IL-10 signaling(JAK1 TYK2 STAT3) )	null
+IL-12 signaling pathway(JAK2 TYK2 STAT4) ( IL-12 signaling(JAK2 TYK2 STAT4) )	null
+IL-13 signaling pathway(JAK1 TYK2 STAT6) ( IL-13 signaling(JAK1 TYK2 STAT6) )	null
+IL-2 signaling pathway(JAK1 JAK3 STAT5) ( IL-2 signaling(JAK1 JAK3 STAT5) )	null
+IL-23 signaling pathway(JAK2 TYK2 STAT3 STAT4) ( IL-23 signaling(JAK2 TYK2 STAT3 STAT4) )	null
+IL-3 signaling pathway(JAK1 JAK2 STAT5) ( IL-3 signaling(JAK1 JAK2 STAT5) )	null
+IL-4 signaling pathway(JAK1 JAK3 STAT6) ( IL-4 signaling(JAK1 JAK3 STAT6) )	null
+IL-5 signaling pathway(JAK1 JAK2 STAT1 STAT5) ( IL-5 signaling(JAK1 JAK2 STAT1 STAT5) )	null
+IL-6 signaling pathway(JAK1 JAK2 STAT3) ( IL-6 signaling(JAK1 JAK2 STAT3) )	null
+IL-7 signaling pathway(JAK1 JAK3 STAT5) ( IL-7 signaling(JAK1 JAK3 STAT5) )	null
+Inactivation of Ptc by Hh ( Hedgehog signaling pathway )	null
+Insulin receptor signaling ( Insulin receptor signaling )	null
+Insulin receptor signaling (Mammal) ( Insulin receptor signaling (Mammal) )	null
+Integrin signaling pathway ( Integrin signaling pathway )	null
+JAK degradation signaling ( JAK-STAT pathway and regulation pathway Diagram )	null
+JAK-STAT pathway and regulation pathway ( JAK-STAT pathway and regulation pathway Diagram )	null
+JNK cascade ( CD4 T cell receptor signaling )	null
+JNK cascade ( CD4 T cell receptor signaling (JNK cascade) )	null
+JNK cascade ( EGF signaling pathway Diagram )	null
+JNK cascade ( IL-1 signaling pathway (through JNK cascade) )	null
+JNK cascade ( PDGF signaling pathway )	null
+JNK cascade ( TGF-beta signaling(through TAK1) )	null
+JNK cascade ( TNFR1 signaling pathway )	null
+JNK cascade ( Toll-like receptor signaling pathway (through ECSIT, MEKK1, MKKs, JNK cascade) )	null
+JNK cascade ( Toll-like receptor signaling pathway (through JNK cascade) )	null
+LIF signaling pathway ( LIF signaling(JAK1 JAK2 STAT3) )	null
+Mammalian Hh signaling pathway ( Hedgehog signaling pathway )	null
+Mammalian Notch signaling pathway ( Notch signaling pathway Diagram )	null
+Mammalian Wnt signaling pathway ( Mammalian Wnt signaling pathway Diagram )	null
+Negative feedback regulation pathway of TGF beta superfamily signaling by (binding of smad6/7 and TGF beta receptor I) ( TGF-beta_super_family_signaling_pathway(canonical) )	null
+Negative regulation of (Dimerization of STAT) in JAK STAT pathway ( JAK-STAT pathway and regulation pathway Diagram )	null
+Negative regulation of gene expression ( Insulin receptor signaling )	null
+Negative regulation of heterotrimeric GPCR signaling pathway (through G alpha s) ( GPCR signaling (cholera toxin) )	null
+Negative regulation of (nuclear import of R-smad:smad4) in TGF beta super family signaling pathway ( TGF-beta_super_family_signaling_pathway(canonical) )	null
+Negative regulation of (Phosphorylation of cytokine receptor) in JAK STAT pathway ( JAK-STAT pathway and regulation pathway Diagram )	null
+Negative regulation of (Phosphorylation of JAK) in JAK STAT pathway ( JAK-STAT pathway and regulation pathway Diagram )	null
+Negative regulation of (transcription by R-smad:smad4) in TGF beta super family signaling pathway ( TGF-beta_super_family_signaling_pathway(canonical) )	null
+NF-kB signaling ( IL-1 signaling pathway (through NF-kappaB) )	null
+NGF signaling pathway ( NGF signaling pathway )	null
+Notch degradation signaling ( Notch signaling pathway Diagram )	null
+Notch secretory pathway ( Notch signaling pathway Diagram )	null
+p38 cascade ( BMP2 signaling(through TAK1) )	null
+p38 cascade ( IL-1 signaling pathway (through p38 cascade) )	null
+p38 cascade ( Toll-like receptor signaling pathway (p38 cascade) )	null
+p38 cascade ( Toll-like receptor signaling pathway (through ECSIT, MEKK1, MKKs, p38 cascade) )	null
+PDGF signaling pathway ( PDGF signaling pathway )	null
+PDGF signaling pathway (Mammal) ( PDGF signaling pathway )	null
+Phospholipase C gamma signaling ( CD4 T cell receptor signaling )	null
+Phospholipase C gamma signaling ( CD4 T cell receptor signaling (JNK cascade) )	null
+PKA activation signaling ( GPCR Dopamine D1like receptor signaling pathway )	null
+PKA activation signaling ( GPCR signaling (cholera toxin) )	null
+PKA activation signaling ( GPCR signaling (G alpha s, PKA and ERK) )	null
+PLC beta signaling ( GPCR GroupI metabotropic glutamate receptor signaling pathway )	null
+PLC gamma signaling ( PDGF signaling pathway )	null
+Positive regulation of (Transcription of SOCS by STAT dimer) in JAK STAT pathway ( JAK-STAT pathway and regulation pathway Diagram )	null
+Raf activation signaling (through Grb2 and Sos) ( B cell receptor signaling )	null
+Raf activation signaling (through RasGRP) ( CD4 T cell receptor signaling )	null
+Raf activation signaling (through RasGRP) ( CD4 T cell receptor signaling (ERK cascade) )	null
+Rap1 activation signaling (through cAMP and Epac) ( GPCR signaling (G alpha s, Epac and ERK) )	null
+Rap1 activation signaling (through cAMP, PKA, Cbl and C3G) ( GPCR Adenosine A2A receptor signaling pathway )	null
+regulation of target gene expression by AP-1 ( IL-1 signaling pathway (through JNK cascade) )	null
+Secretory pathway of Hh ( Hedgehog signaling pathway )	null
+Signaling with Wnt (Canonical) ( Canonical Wnt signaling pathway Diagram )	null
+Signaling without Hh ( Hedgehog signaling pathway )	null
+Signaling without Wnt (Canonical) ( Canonical Wnt signaling pathway Diagram )	null
+SnoN degradation signaling ( TGF-beta_super_family_signaling_pathway(canonical) )	null
+Stabilization and accumulation of cytoplasmic beta-catenin (Canonical) ( Canonical Wnt signaling pathway Diagram )	null
+T cell receptor signaling pathway ( CD4 T cell receptor signaling )	null
+T cell receptor signaling (PLC gamma, PKC, Ras and ERK cascade) ( CD4 T cell receptor signaling (ERK cascade) )	null
+T cell receptor signaling (PLC gamma, PKC, Ras and IKK-NF-kappaB cascade) ( CD4 T cell receptor signaling (NF-kB cascade) )	null
+TGF beta receptor complex degradation signaling ( TGF-beta_super_family_signaling_pathway(canonical) )	null
+TGF beta receptor I degradation signaling ( TGF-beta_super_family_signaling_pathway(canonical) )	null
+TGF beta signaling pathway(through TAK1) ( TGF-beta signaling(through TAK1) )	null
+TGF-beta_super_family_signaling_pathway(canonical) ( TGF-beta_super_family_signaling_pathway(canonical) )	null
+TNFR1 signaling pathway ( TNFR1 signaling pathway )	null
+Toll-like receptor signaling pathway (p38 cascade) ( Toll-like receptor signaling pathway (p38 cascade) )	null
+Toll-like receptor signaling pathway (through ECSIT, MEKK1, MKKs, JNK cascade) ( Toll-like receptor signaling pathway (through ECSIT, MEKK1, MKKs, JNK cascade) )	null
+Toll-like receptor signaling pathway (through ECSIT, MEKK1, MKKs, p38 cascade) ( Toll-like receptor signaling pathway (through ECSIT, MEKK1, MKKs, p38 cascade) )	null
+Toll-like receptor signaling pathway (through JNK cascade)(Canonical) ( Toll-like receptor signaling pathway (through JNK cascade) )	null
+Toll-like receptor signaling pathway (through LPS, TLR4, MyD88, IRAK, TAK1 and IKK-NF-kappaB cascade)(Canonical) ( Toll-like receptor signaling pathway (trough NF-kappaB) )	null
+TPO signaling pathway(JAK2 STAT3) ( TPO signaling(JAK2 STAT3) )	null
+VEGF signaling pathway ( VEGF signaling pathway )	null

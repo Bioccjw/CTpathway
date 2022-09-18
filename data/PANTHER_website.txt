@@ -1,0 +1,114 @@
+pathway_name	website
+5HT1 type receptor mediated signaling pathway	http://identifiers.org/panther.pathway/P04373
+5HT2 type receptor mediated signaling pathway	http://identifiers.org/panther.pathway/P04374
+5HT3 type receptor mediated signaling pathway	http://identifiers.org/panther.pathway/P04375
+5HT4 type receptor mediated signaling pathway	http://identifiers.org/panther.pathway/P04376
+5-Hydroxytryptamine biosynthesis	http://identifiers.org/panther.pathway/P04371
+5-Hydroxytryptamine degredation	http://identifiers.org/panther.pathway/P04372
+Adenine and hypoxanthine salvage pathway	http://identifiers.org/panther.pathway/P02723
+Adrenaline and noradrenaline biosynthesis	http://identifiers.org/panther.pathway/P00001
+Alpha adrenergic receptor signaling pathway	http://identifiers.org/panther.pathway/P00002
+Alzheimer disease-amyloid secretase pathway	http://identifiers.org/panther.pathway/P00003
+Alzheimer disease-presenilin pathway	http://identifiers.org/panther.pathway/P00004
+Angiogenesis	http://identifiers.org/panther.pathway/P00005
+Apoptosis signaling pathway	http://identifiers.org/panther.pathway/P00006
+Arginine biosynthesis	http://identifiers.org/panther.pathway/P02728
+Asparagine and aspartate biosynthesis	http://identifiers.org/panther.pathway/P02730
+ATP synthesis	http://identifiers.org/panther.pathway/P02721
+Axon guidance mediated by netrin	http://identifiers.org/panther.pathway/P00009
+Axon guidance mediated by semaphorins	http://identifiers.org/panther.pathway/P00007
+Axon guidance mediated by Slit/Robo	http://identifiers.org/panther.pathway/P00008
+B cell activation	http://identifiers.org/panther.pathway/P00010
+Beta1 adrenergic receptor signaling pathway	http://identifiers.org/panther.pathway/P04377
+Beta2 adrenergic receptor signaling pathway	http://identifiers.org/panther.pathway/P04378
+Beta3 adrenergic receptor signaling pathway	http://identifiers.org/panther.pathway/P04379
+Blood coagulation	http://identifiers.org/panther.pathway/P00011
+Cadherin signaling pathway	http://identifiers.org/panther.pathway/P00012
+Cell cycle	http://identifiers.org/panther.pathway/P00013
+Cholesterol biosynthesis	http://identifiers.org/panther.pathway/P00014
+Circadian clock system	http://identifiers.org/panther.pathway/P00015
+Coenzyme A biosynthesis	http://identifiers.org/panther.pathway/P02736
+Cortocotropin releasing factor receptor signaling pathway	http://identifiers.org/panther.pathway/P04380
+Cytoskeletal regulation by Rho GTPase	http://identifiers.org/panther.pathway/P00016
+De novo purine biosynthesis	http://identifiers.org/panther.pathway/P02738
+De novo pyrimidine deoxyribonucleotide biosynthesis	http://identifiers.org/panther.pathway/P02739
+DNA replication	http://identifiers.org/panther.pathway/P00017
+EGF receptor signaling pathway	http://identifiers.org/panther.pathway/P00018
+Endogenous_cannabinoid_signaling	http://identifiers.org/panther.pathway/P05730
+Enkephalin release	http://identifiers.org/panther.pathway/P05913
+FAS signaling pathway	http://identifiers.org/panther.pathway/P00020
+FGF signaling pathway	http://identifiers.org/panther.pathway/P00021
+Flavin biosynthesis	http://identifiers.org/panther.pathway/P02741
+Formyltetrahydroformate biosynthesis	http://identifiers.org/panther.pathway/P02743
+Fructose galactose metabolism	http://identifiers.org/panther.pathway/P02744
+Gamma-aminobutyric acid synthesis	http://identifiers.org/panther.pathway/P04384
+General transcription by RNA polymerase I	http://identifiers.org/panther.pathway/P00022
+General transcription regulation	http://identifiers.org/panther.pathway/P00023
+Glutamine glutamate conversion	http://identifiers.org/panther.pathway/P02745
+Glycolysis	http://identifiers.org/panther.pathway/P00024
+Hedgehog signaling pathway	http://identifiers.org/panther.pathway/P00025
+Heme biosynthesis	http://identifiers.org/panther.pathway/P02746
+Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	http://identifiers.org/panther.pathway/P00026
+Heterotrimeric G-protein signaling pathway-Gq alpha and Go alpha mediated pathway	http://identifiers.org/panther.pathway/P00027
+Heterotrimeric G-protein signaling pathway-rod outer segment phototransduction	http://identifiers.org/panther.pathway/P00028
+Histamine H1 receptor mediated signaling pathway	http://identifiers.org/panther.pathway/P04385
+Histamine H2 receptor mediated signaling pathway	http://identifiers.org/panther.pathway/P04386
+Huntington disease	http://identifiers.org/panther.pathway/P00029
+Hypoxia response via HIF activation	http://identifiers.org/panther.pathway/P00030
+Inflammation mediated by chemokine and cytokine signaling pathway	http://identifiers.org/panther.pathway/P00031
+Insulin/IGF pathway-mitogen activated protein kinase kinase/MAP kinase cascade	http://identifiers.org/panther.pathway/P00032
+Insulin/IGF pathway-protein kinase B signaling cascade	http://identifiers.org/panther.pathway/P00033
+Integrin signalling pathway	http://identifiers.org/panther.pathway/P00034
+Interferon-gamma signaling pathway	http://identifiers.org/panther.pathway/P00035
+Interleukin signaling pathway	http://identifiers.org/panther.pathway/P00036
+Ionotropic glutamate receptor pathway	http://identifiers.org/panther.pathway/P00037
+Isoleucine biosynthesis	http://identifiers.org/panther.pathway/P02748
+JAK/STAT signaling pathway	http://identifiers.org/panther.pathway/P00038
+Mannose metabolism	http://identifiers.org/panther.pathway/P02752
+Metabotropic glutamate receptor group III pathway	http://identifiers.org/panther.pathway/P00039
+Metabotropic glutamate receptor group II pathway	http://identifiers.org/panther.pathway/P00040
+Metabotropic glutamate receptor group I pathway	http://identifiers.org/panther.pathway/P00041
+Methylmalonyl pathway	http://identifiers.org/panther.pathway/P02755
+mRNA splicing	http://identifiers.org/panther.pathway/P00058
+Muscarinic acetylcholine receptor 1 and 3 signaling pathway	http://identifiers.org/panther.pathway/P00042
+Muscarinic acetylcholine receptor 2 and 4 signaling pathway	http://identifiers.org/panther.pathway/P00043
+N-acetylglucosamine metabolism	http://identifiers.org/panther.pathway/P02756
+Nicotine pharmacodynamics pathway	http://identifiers.org/panther.pathway/P06587
+Nicotinic acetylcholine receptor signaling pathway	http://identifiers.org/panther.pathway/P00044
+Notch signaling pathway	http://identifiers.org/panther.pathway/P00045
+O-antigen biosynthesis	http://identifiers.org/panther.pathway/P02757
+Opioid proenkephalin pathway	http://identifiers.org/panther.pathway/P05915
+Opioid proopiomelanocortin pathway	http://identifiers.org/panther.pathway/P05917
+Oxidative stress response	http://identifiers.org/panther.pathway/P00046
+Oxytocin receptor mediated signaling pathway	http://identifiers.org/panther.pathway/P04391
+p38 MAPK pathway	http://identifiers.org/panther.pathway/P05918
+p53 pathway	http://identifiers.org/panther.pathway/P00059
+p53 pathway by glucose deprivation	http://identifiers.org/panther.pathway/P04397
+P53 pathway feedback loops 1	http://identifiers.org/panther.pathway/P04392
+p53 pathway feedback loops 2	http://identifiers.org/panther.pathway/P04398
+Parkinson disease	http://identifiers.org/panther.pathway/P00049
+PDGF signaling pathway	http://identifiers.org/panther.pathway/P00047
+Pentose phosphate pathway	http://identifiers.org/panther.pathway/P02762
+PI3 kinase pathway	http://identifiers.org/panther.pathway/P00048
+Plasminogen activating cascade	http://identifiers.org/panther.pathway/P00050
+Purine metabolism	http://identifiers.org/panther.pathway/P02769
+Pyridoxal phosphate salvage pathway	http://identifiers.org/panther.pathway/P02770
+Pyruvate metabolism	http://identifiers.org/panther.pathway/P02772
+Ras Pathway	http://identifiers.org/panther.pathway/P04393
+Salvage pyrimidine deoxyribonucleotides	http://identifiers.org/panther.pathway/P02774
+Salvage pyrimidine ribonucleotides	http://identifiers.org/panther.pathway/P02775
+Serine glycine biosynthesis	http://identifiers.org/panther.pathway/P02776
+Succinate to proprionate conversion	http://identifiers.org/panther.pathway/P02777
+TCA cycle	http://identifiers.org/panther.pathway/P00051
+T cell activation	http://identifiers.org/panther.pathway/P00053
+TGF-beta signaling pathway	http://identifiers.org/panther.pathway/P00052
+Thyrotropin-releasing hormone receptor signaling pathway	http://identifiers.org/panther.pathway/P04394
+Toll receptor signaling pathway	http://identifiers.org/panther.pathway/P00054
+Transcription regulation by bZIP transcription factor	http://identifiers.org/panther.pathway/P00055
+Triacylglycerol metabolism	http://identifiers.org/panther.pathway/P02782
+Vasopressin synthesis	http://identifiers.org/panther.pathway/P04395
+VEGF signaling pathway	http://identifiers.org/panther.pathway/P00056
+Vitamin B6 metabolism	http://identifiers.org/panther.pathway/P02787
+Vitamin D metabolism and pathway	http://identifiers.org/panther.pathway/P04396
+Wnt signaling pathway	http://identifiers.org/panther.pathway/P00057
+Xanthine and guanine salvage pathway	http://identifiers.org/panther.pathway/P02788
