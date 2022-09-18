@@ -46,15 +46,15 @@ sh cytoscape.sh
 python3 CTpathway.py example/example_diff.txt symbol Both
 ```
 
-Once the program has run successfully, a series of result files will appear in the "output" folder. The result files are as follows:
-	pathway_result.txt --Pathway enrichment result includes source, pathway risk score (PS), p_value, FDR, node_number and website for all candidate pathways.
-	significant_pathway_result.txt --Pathway enrichment result includes source, pathway risk score (PS), p_value, FDR, node_number and website for significant pathways.
-	risk_score_result.txt --Gene risk score (RS) for all genes.
-	cluster_info_*.txt --Reducing pathway redundancy result for significant pathways includes significant pathway clustering information. * ranges 0.1-0.9, which represents a cutoff of Jaccard similarity coefficient for shared genes among all significant pathway pairs used to construct a pathway similarity network. Then, MCL clustering algorithm is employed to absorb most redundancies into representative clusters.
-	bar.pdf --Pathway enrichment result visualization by bar plot shows top 20 significant pathways.
-	bubble.pdf --Pathway enrichment result visualization by bubble plot shows top 20 significant pathways..
-	network_*.svg --Reducing pathway redundancy result visualization. CTpathway chooses the most significant (lowest FDR) pathway within each cluster to represent the cluster. To obtain a better visualization, CTpathway shows the top 20 non-redundant pathways or clusters with low FDR, if there are more than 20 clusters or pathways. For each cluster, the top 10 pathways with lower FDR are shown in the enrichment map if there are more than 10 pathways are within one cluster.
-	top20pathwayname_*.svg --The names of representative pathway within each cluster corresponding to network_*.svg.
+Once the program has run successfully, a series of result files will appear in the "output" folder. The result files are as follows:  
+	pathway_result.txt --Pathway enrichment result includes source, pathway risk score (PS), p_value, FDR, node_number and website for all candidate pathways.  
+	significant_pathway_result.txt --Pathway enrichment result includes source, pathway risk score (PS), p_value, FDR, node_number and website for significant pathways.  
+	risk_score_result.txt --Gene risk score (RS) for all genes.  
+	cluster_info_*.txt --Reducing pathway redundancy result for significant pathways includes significant pathway clustering information. * ranges 0.1-0.9, which represents a cutoff of Jaccard similarity coefficient for shared genes among all significant pathway pairs used to construct a pathway similarity network. Then, MCL clustering algorithm is employed to absorb most redundancies into representative clusters.  
+	bar.pdf --Pathway enrichment result visualization by bar plot shows top 20 significant pathways.  
+	bubble.pdf --Pathway enrichment result visualization by bubble plot shows top 20 significant pathways.  
+	network_*.svg --Reducing pathway redundancy result visualization. CTpathway chooses the most significant (lowest FDR) pathway within each cluster to represent the cluster. To obtain a better visualization, CTpathway shows the top 20 non-redundant pathways or clusters with low FDR, if there are more than 20 clusters or pathways. For each cluster, the top 10 pathways with lower FDR are shown in the enrichment map if there are more than 10 pathways are within one cluster.  
+	top20pathwayname_*.svg --The names of representative pathway within each cluster corresponding to network_*.svg.  
 
 ### Help Information
 ```
