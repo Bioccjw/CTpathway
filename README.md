@@ -32,9 +32,9 @@ pip3 install matplotlib==3.3.4
 pip3 install markov_clustering==0.0.6.dev0
 ```
 
-### **step3. Install and run cytoscape(3.8.2)**
+### **step3. Install and run cytoscape (3.8.2)**
+download cytoscape (3.8.2) from https://github.com/cytoscape/cytoscape/releases/3.8.2/.
 ```
-(https://github.com/cytoscape/cytoscape/releases/3.8.2/)
 tar -xvf cytoscape-unix-3.8.2.tar.gz
 sh cytoscape.sh
 ```
